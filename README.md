@@ -16,7 +16,7 @@ openexchangerates properties:
     baseCurrency=USD (defaults to 'USD', only premium accounts support other bases)
     currency=RUB
 
-giphy properties
+giphy properties:
 
     giphyUrl=https://api.giphy.com/v1/gifs/random
     gifApiKey=6o1n373fbbWdmwbg9Q1tX5kIP1Vhp7OL
